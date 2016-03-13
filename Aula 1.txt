@@ -1,0 +1,40 @@
+Sala 1214 - Programação de Banco Dados
+
+Aula 1 - 16-02-2016
+
+Fretz - fretz@uol.com.br
+
+M1 = P1(70%) + AP(20%) + Listas(10%)
+
+M1 	  = 05/04/2016
+M2 	  = 31/05/2016
+Trabalhos = 07/06/2016
+
+
+Trabalho:
+	Aplicativo de banco de dados de 3 à 7 tabelas 
+
+DBDesigner - Cria modelos de entidades de relacionamento.
+
+Revisão:
+
+CREATE TABLE Disciplina(
+Dis_cod		integer,
+Dis_nome	varchar(100) not null,
+Constraint pk_disciplina Primary Key (Dis_cod)
+);
+
+CREAT TABLE Aluno (
+
+
+);
+
+ALTER TABLE Aluno ADD COLUMN telefone
+
+DELETAR TABELA
+
+INSERT DADOS
+
+ATUALIZAR DADOS
+
+APAGAR DADOS
